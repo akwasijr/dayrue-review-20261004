@@ -1,0 +1,1 @@
+function e(e){let t=matchMedia(`(prefers-reduced-motion: reduce)`),n,r=()=>{let r=t.matches;document.documentElement.toggleAttribute(`data-motion-reduced`,r),r!==n&&(n=r,e(r))};return t.addEventListener(`change`,r),r(),()=>{t.removeEventListener(`change`,r)}}export{e as t};

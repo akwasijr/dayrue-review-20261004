@@ -1,0 +1,15 @@
+Plus Jakarta Sans
+Copyright 2020 The Plus Jakarta Sans Project Authors
+https://github.com/tokotype/PlusJakartaSans
+
+Geist
+Copyright 2024 The Geist Project Authors
+https://github.com/vercel/geist-font
+
+DM Sans
+Copyright 2014 The DM Sans Project Authors
+https://github.com/googlefonts/dm-fonts
+
+All three families are distributed under the SIL Open Font License 1.1.
+See OFL.txt. The WOFF2 files retain the original embedded copyright and license
+records. They were losslessly converted from the installed approved-board fonts.
